@@ -1,0 +1,19 @@
+{
+  "name": "seull1-common-fun",
+  "version": "0.1.0",
+  "description": "asd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seull1/seull1-common-fun.git"
+  },
+  "author": "seull1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seull1/seull1-common-fun/issues"
+  },
+  "homepage": "https://github.com/Seull1/seull1-common-fun#readme"
+}
