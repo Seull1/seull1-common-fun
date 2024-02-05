@@ -6,7 +6,8 @@ function multi(a, b) {
   return a * b
 }
 
-module.export = {
+module.exports = 
+{
   add,
   multi
 }
